@@ -1,0 +1,10 @@
+Configure the ATTiny85 to run from the 8MHz internal clock.
+
+                                   ATTiny85
+                                   +-----+
+                                  -|  U  |- +5
+                            Piezo -|     |-
+NeoPixel Data via 220ohm resistor -|     |-
+                              Gnd -|     |-
+                                   +-----+
+

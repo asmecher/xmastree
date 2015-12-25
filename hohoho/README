@@ -1,0 +1,10 @@
+Configure the ATTiny85 to run from the 8MHz internal clock.
+
+                                   ATTiny85
+                                   +-----+
+                                  -|  U  |--- -LED+ --- +5
+                                  -|     |-
+                          Speaker -|     |- Speaker
+                              Gnd -|     |-
+                                   +-----+
+
